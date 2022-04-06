@@ -1,0 +1,19 @@
+header{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center
+}
+article{
+    background-color: red;
+    color: black
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    background-color: yellow;
+    color: black
+}
